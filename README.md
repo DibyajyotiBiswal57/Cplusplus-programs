@@ -1,2 +1,2 @@
 # Ruby-programs
-Some Ruby programs that I made
+Some C++ programs that I made
